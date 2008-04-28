@@ -1,0 +1,2 @@
+/usr/bin/ar cr libUtiles.a  "CMakeFiles/Utiles.dir/OCCadena.o" "CMakeFiles/Utiles.dir/OCLista.o" "CMakeFiles/Utiles.dir/OCNodo.o" "CMakeFiles/Utiles.dir/OCTokenizer.o" 
+/usr/bin/ranlib libUtiles.a 

@@ -1,0 +1,18 @@
+name: Proyecto nuevo
+files: /home/far/proyectos/objetivoc/doc/base.css
+files: /home/far/proyectos/objetivoc/doc/desarrollo.html
+files: /home/far/proyectos/objetivoc/doc/index.html
+basedir: /home/far/proyectos/objetivoc/doc/
+webdir: obc.berlios.de
+template: 
+word_wrap: 1
+recent_files: /home/far/proyectos/objetivoc/doc/base.css
+recent_files: /home/far/proyectos/objetivoc/doc/desarrollo.html
+recent_files: /home/far/proyectos/objetivoc/doc/index.html
+recent_files: /home/far/proyectos/objetivoc/doc/html/OCTokenizer_8h.html
+opendir: /home/far/proyectos/objetivoc/doc
+savedir: /home/far/proyectos/objetivoc/doc
+view_html_toolbar: 1
+view_custom_menu: 1
+view_main_toolbar: 1
+view_left_panel: 1

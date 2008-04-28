@@ -1,0 +1,32 @@
+# The set of files whose dependency integrity should be checked:
+SET(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+SET(CMAKE_DEPENDS_CHECK_CXX
+  "/home/far/proyectos/objetivoc/src/obc.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/obc.o"
+  "/home/far/proyectos/objetivoc/src/OCEscena.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCEscena.o"
+  "/home/far/proyectos/objetivoc/src/OCParser.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCParser.o"
+  "/home/far/proyectos/objetivoc/src/OCVector.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCVector.o"
+  "/home/far/proyectos/objetivoc/src/OCCamara.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCCamara.o"
+  "/home/far/proyectos/objetivoc/src/OCColor.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCColor.o"
+  "/home/far/proyectos/objetivoc/src/OCLuz.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCLuz.o"
+  "/home/far/proyectos/objetivoc/src/OCMaterial.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCMaterial.o"
+  "/home/far/proyectos/objetivoc/src/OCObjeto.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCObjeto.o"
+  "/home/far/proyectos/objetivoc/src/OCRayo.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCRayo.o"
+  "/home/far/proyectos/objetivoc/src/OCEsfera.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCEsfera.o"
+  "/home/far/proyectos/objetivoc/src/OCPlano.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCPlano.o"
+  "/home/far/proyectos/objetivoc/src/OCBuffer.m"
+  "/home/far/proyectos/objetivoc/src/CMakeFiles/obc.dir/OCBuffer.o"
+  )

@@ -1,0 +1,17 @@
+FILE(REMOVE
+"obc.pdb"
+"obc"
+"CMakeFiles/obc.dir/obc.o"
+"CMakeFiles/obc.dir/OCEscena.o"
+"CMakeFiles/obc.dir/OCParser.o"
+"CMakeFiles/obc.dir/OCVector.o"
+"CMakeFiles/obc.dir/OCCamara.o"
+"CMakeFiles/obc.dir/OCColor.o"
+"CMakeFiles/obc.dir/OCLuz.o"
+"CMakeFiles/obc.dir/OCMaterial.o"
+"CMakeFiles/obc.dir/OCObjeto.o"
+"CMakeFiles/obc.dir/OCRayo.o"
+"CMakeFiles/obc.dir/OCEsfera.o"
+"CMakeFiles/obc.dir/OCPlano.o"
+"CMakeFiles/obc.dir/OCBuffer.o"
+)

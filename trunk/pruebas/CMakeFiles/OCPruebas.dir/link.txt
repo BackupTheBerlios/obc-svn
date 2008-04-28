@@ -1,0 +1,2 @@
+/usr/bin/ar cr libOCPruebas.a  "CMakeFiles/OCPruebas.dir/OCPrueba.o" "CMakeFiles/OCPruebas.dir/OCPruebaEnteros.o" "CMakeFiles/OCPruebas.dir/PruebaOCCadena.o" 
+/usr/bin/ranlib libOCPruebas.a 

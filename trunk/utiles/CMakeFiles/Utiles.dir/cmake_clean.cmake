@@ -1,0 +1,9 @@
+FILE(REMOVE
+"libUtiles.pdb"
+"libUtiles.a"
+"libUtiles.so"
+"CMakeFiles/Utiles.dir/OCCadena.o"
+"CMakeFiles/Utiles.dir/OCLista.o"
+"CMakeFiles/Utiles.dir/OCNodo.o"
+"CMakeFiles/Utiles.dir/OCTokenizer.o"
+)
